@@ -1,0 +1,30 @@
+{
+  "name": "webpack-boilerplate-cli",
+  "version": "1.0.0",
+  "description": "A simple CLI creating webpack project using boilerplate",
+  "preferGlobal": true,
+  "bin": {
+    "webpack-init": "bin/webpack-init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vue-cli.git"
+  },
+  "keywords": [
+    "webpack",
+    "cli"
+  ],
+  "author": "Romain Francony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RomainFrancony/webpack-boilerplate-cli/issues"
+  },
+  "homepage": "https://github.com/RomainFrancony/webpack-boilerplate-cli",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.12.2",
+    "download-git-repo": "^1.0.1",
+    "inquirer": "^4.0.1",
+    "ora": "^1.3.0"
+  }
+}
