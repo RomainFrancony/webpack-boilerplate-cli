@@ -10,8 +10,6 @@ This project is mainly inspired by [vue-cli](https://github.com/vuejs/vue-cli).
 
 Prerequisites: [Node.js](https://nodejs.org/en/) and [Git](https://git-scm.com/).
 
-**The package is no available on npm yet**
-
 ``` bash
 npm install -g webpack-boilerplate-cli
 ```
@@ -26,7 +24,7 @@ webpack-init <project-name>
 Example:
 
 ``` bash
-webpack-boilerplate-cli my-project
+webpack-init my-project
 ```
 
 The above command pulls the [gweltaz-calori/webpack-boilerplate](https://github.com/vuejs-templates/webpack) repository, and generates the project at `./my-project/`.

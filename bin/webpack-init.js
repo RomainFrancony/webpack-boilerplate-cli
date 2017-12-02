@@ -34,7 +34,7 @@ let rawName = "webpack-boilerplate";
 
 program.parse(process.argv);
 
-if (program.args) {
+if (program.args.length > 0) {
     rawName = program.args[0];
 }
 const inPlace = !rawName || rawName === '.';

@@ -1,6 +1,6 @@
 {
   "name": "webpack-boilerplate-cli",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "A simple CLI creating webpack project using boilerplate",
   "preferGlobal": true,
   "bin": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vuejs/vue-cli.git"
+    "url": "git+https://github.com/RomainFrancony/webpack-boilerplate-cli"
   },
   "keywords": [
     "webpack",
