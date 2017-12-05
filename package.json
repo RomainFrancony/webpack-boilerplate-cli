@@ -1,10 +1,10 @@
 {
   "name": "webpack-boilerplate-cli",
-  "version": "2.0.0",
+  "version": "2.0.2",
   "description": "A simple CLI creating webpack project using boilerplate",
   "preferGlobal": true,
   "bin": {
-    "webpack-init": "bin/webpack-init.js"
+    "webpack-init": "bin/webpack-init"
   },
   "repository": {
     "type": "git",

@@ -27,7 +27,7 @@ Example:
 webpack-init my-project
 ```
 
-The above command pulls the [gweltaz-calori/webpack-boilerplate](https://github.com/vuejs-templates/webpack) repository, and generates the project at `./my-project/`.
+The above command pulls the [gweltaz-calori/webpack-boilerplate](https://github.com/gweltaz-calori/webpack-boilerplate) repository, and generates the project at `./my-project/`.
 
 ### What's next
 
